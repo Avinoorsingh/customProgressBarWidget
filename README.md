@@ -1,14 +1,11 @@
 ## Progresswidget
-[My widget description]
 Custom progress bar widget built in JavaScript
-For Mendix.
+for Mendix.
 
 ## Features
-[feature highlights]
 You can add different colors at different progress levels.
 
 ## Usage
-[step by step instructions]
 Build a solution and add it to your project.
 It is simple to use and understand.
 
